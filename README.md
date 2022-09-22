@@ -1,5 +1,7 @@
 # parse-excel
 
-The ssconvert utility is required to work.
+Скрипт отбирает из нескольких файлов .xlsx заданные столбцы и пишет их в новый файл в заданном порядке
+
+Для работы необходима утилита ssconvert, Необходимо установить пакет gnumeric
 
 $sudo apt install gnumeric
